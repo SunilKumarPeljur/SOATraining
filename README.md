@@ -1,0 +1,2 @@
+# SOATraining
+SOA training samples
